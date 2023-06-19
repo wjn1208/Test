@@ -1,5 +1,4 @@
-# Test
-This Test Repo for Git
-- this is test
-- im fool
-### NiCE TO MEET YOU!
+# Test 입니다.
+
+
+- 추후 수정 예정입니다.
